@@ -35,11 +35,8 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.painel_Principal = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.Panel_Lateral.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.painel_Principal.SuspendLayout();
             this.SuspendLayout();
             // 
             // Panel_Lateral
@@ -114,34 +111,11 @@
             // 
             // painel_Principal
             // 
-            this.painel_Principal.Controls.Add(this.textBox1);
-            this.painel_Principal.Controls.Add(this.label1);
             this.painel_Principal.Dock = System.Windows.Forms.DockStyle.Fill;
             this.painel_Principal.Location = new System.Drawing.Point(231, 0);
             this.painel_Principal.Name = "painel_Principal";
             this.painel_Principal.Size = new System.Drawing.Size(1033, 681);
             this.painel_Principal.TabIndex = 1;
-            // 
-            // label1
-            // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label1.Location = new System.Drawing.Point(84, 86);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(92, 20);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Mansagem:";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F);
-            this.textBox1.Location = new System.Drawing.Point(182, 77);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(488, 35);
-            this.textBox1.TabIndex = 1;
             // 
             // Base
             // 
@@ -157,8 +131,6 @@
             this.Text = "Painel_Principal";
             this.Panel_Lateral.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.painel_Principal.ResumeLayout(false);
-            this.painel_Principal.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -171,8 +143,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel painel_Principal;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Label label1;
     }
 }
 
