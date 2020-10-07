@@ -1,0 +1,12 @@
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\bin\Debug\MacroLol.exe.config
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\bin\Debug\MacroLol.exe
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\bin\Debug\MacroLol.pdb
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.csprojAssemblyReference.cache
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.Properties.Resources.resources
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.csproj.GenerateResource.cache
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.csproj.CoreCompileInputs.cache
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.exe
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.pdb
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.Base.resources
+C:\Users\Tenroller\source\repos\Tenroll3r\Macro\MacroLol\MacroLol\obj\Debug\MacroLol.csproj.CopyComplete
